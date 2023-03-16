@@ -19,7 +19,7 @@
 import { UserAgent } from "@apizee/apirtc";
 
 export default {
-  name: "Conversation",
+  name: "ConversationComponent",
   props: {},
   methods: {
     getOrcreateConversation() {
